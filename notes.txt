@@ -1,0 +1,10 @@
+Embeddings are vectors that represent the meaning of text as numbers.
+ChromaDB is a vector database that stores embeddings and allows semantic search.
+Gemini is Google's large language model that can generate text responses.
+RAG stands for Retrieval Augmented Generation which combines search with AI generation.
+Tokenization is the process of splitting text into smaller units called tokens.
+LangGraph is a framework for building multi-agent systems using graph structures.
+Fine-tuning means training a model on your own data for a specific task.
+Context window is the maximum amount of text a model can process at once.
+Agents are AI systems that can reason, use tools, and take actions autonomously.
+Vector similarity measures how close two embeddings are in meaning.
