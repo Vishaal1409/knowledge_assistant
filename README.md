@@ -87,4 +87,4 @@ User question → embed → search ChromaDB → top 3 chunks
 
 ---
 
-*Part of my Data Science (Agent) learning journey — hands-on before the capstone project.*
+*Part of my Data Science (Agent) Internship journey.*
